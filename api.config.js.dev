@@ -1,0 +1,23 @@
+export default {
+  // cookie domain
+  domain: '58coin.com',
+
+  // 主站
+  mainDomain: 'http://www.dev.58coin.com/',
+  // 个人中心 
+  userDomain: 'http://user.dev.58coin.com/',
+  // 币币
+  spotDomain: 'http://spot.dev.58coin.com/',
+  // otc
+  otcDomain: 'http://c2c.dev.58coin.com/',
+  // 数字合约
+  swapsDomain: 'http://swap.dev.58coin.com/',
+  // 融资融币
+  labsDomain: 'http://margin.dev.58coin.com/',
+  // 抵押贷款
+  loanDomain: 'http://mortgageloan.dev.58coin.com/',
+  // usdt合约
+  usdtDomain: 'http://usdtfuture.dev.58coin.com/',
+  // 定期合约
+  regularDomain: 'http://regularfuture.dev.58coin.com'
+}

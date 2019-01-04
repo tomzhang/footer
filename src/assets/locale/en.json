@@ -1,0 +1,36 @@
+{
+  "index": {
+    "contractSeries": "Contract Series",
+    "products": "Product",
+    "about_us": "About Us",
+    "about_us_1": "Introduction",
+    "about_us_2": "Team",
+    "about_us_3": "Contact Us",
+    "about_us_4": "Announcement",
+    "service_support": "Support",
+    "service_support_1": "API",
+    "service_support_2": "Help",
+    "service_support_3": "Digital Asset Intro",
+    "service_support_4": "Currency Apply",
+    "official_community": "Community",
+    "official_community_1": "Telegram",
+    "official_community_3": "QQ Group",
+    "official_community_4": "Wechat",
+    "official_community_5": "API Group",
+    "follow": "About Us",
+    "weChat": "Scan QR Code to join WeChat Group",
+    "api": "Scan to join API group",
+    "downLoad": "Download"
+  },
+  "product": {
+    "otc": "OTC",
+    "spot": "Spot",
+    "hash": "Hash",
+    "labs": "Margin",
+    "swap": "Swap",
+    "loan": "Mortgage Loan",
+    "trade": "D-CONTR",
+    "usdtTrade": "U-CONTR",
+    "agent": "Broker"
+  }
+}

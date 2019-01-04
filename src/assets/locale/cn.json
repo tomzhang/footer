@@ -1,0 +1,36 @@
+{
+  "index": {
+    "contractSeries": "合约系列",
+    "products": "系列产品",
+    "about_us": "关于我们",
+    "about_us_1": "公司介绍",
+    "about_us_2": "团队介绍",
+    "about_us_3": "联系我们",
+    "about_us_4": "官方公告",
+    "service_support": "服务支持",
+    "service_support_1": "API",
+    "service_support_2": "帮助中心",
+    "service_support_3": "数字资产介绍",
+    "service_support_4": "上币申请及说明",
+    "official_community": "官方社群",
+    "official_community_1": "Telegram",
+    "official_community_3": "QQ群",
+    "official_community_4": "微信群",
+    "official_community_5": "API交流群",
+    "follow": "关注我们",
+    "weChat": "扫码加入微信群",
+    "api": "扫码加入API交流群",
+    "downLoad": "相关下载"
+  },
+  "product": {
+    "otc": "法币OTC交易",
+    "spot": "币币交易",
+    "hash": "云算力交易",
+    "labs": "融资融币",
+    "swap": "永续合约",
+    "loan": "抵押贷款",
+    "trade": "数字合约",
+    "usdtTrade": "USDT合约",
+    "agent": "经纪人"
+  }
+}
